@@ -1,0 +1,63 @@
+ul{
+    color: cyan;
+    background-color: darkblue;
+    width: 400px;
+    list-style-type: armenian;
+}
+
+li{
+    font-family: Ebrima;
+    font-size: 2em;
+}
+
+ul li{
+    font-family: Arial;
+}
+
+#list1{
+    color: lawngreen;
+}
+
+.list2{
+    color: blueviolet;
+}
+
+.list3{
+    color: blue;
+}
+
+#list3{
+    color: coral;
+}
+
+ol{
+    font-size: 18px;
+    background-color: gray;
+    width: 400px;
+    list-style-type: decimal;
+}
+
+#special{
+    list-style-type: upper-latin;
+    width: inherit;
+}
+
+ul{
+    list-style-image: url(https://liubavyshka.ru/_ph/82/2/56048802.gif);
+}
+
+
+#cont1{
+    background-color: cornflowerblue;
+    margin: 50px 20px 1px;
+}
+
+#cont2{
+    background-color: burlywood;
+    padding: 20px;
+    border: 6px double red;
+}
+
+p{
+    margin: 0px;
+}
